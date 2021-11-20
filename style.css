@@ -171,7 +171,7 @@
   color: var(--Moderate-Cyan);
   padding: 10px 0;
   border-bottom: 2px solid var(--Moderate-Cyan);
-  width: fit-content;
+  width: 180px;
 }
 .section2 .top-side a:hover{
   color: hsl(170, 45%, 70%);
